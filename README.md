@@ -31,7 +31,7 @@ This repository is created to organize and share cookie data for supported platf
 
 «This service is available in India.»
 
-
+---
 
 ⭐ Support
 
