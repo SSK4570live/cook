@@ -46,7 +46,6 @@ If you like this project, don't forget to:
 </div>
 
 
----
 
 # 🚬 Credits
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+SSK4570)](https://git.io/typing-svg)
