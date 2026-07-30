@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Region-India-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Updates-Regular-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Developer-SSK4570-red?style=for-the-badge">---
+<img src="https://img.shields.io/badge/Developer-SSK4570-red?style=for-the-badge">
 
-⚡ Fast • Clean • Regularly Updated
+---⚡ Fast • Clean • Regularly Updated
 
 </div>📖 About
 
