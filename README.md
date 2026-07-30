@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Updates-Regular-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Developer-SSK4570-red?style=for-the-badge">
 
----⚡ Fast • Clean • Regularly Updated
+⚡ Fast • Clean • Regularly Updated
 
 </div>📖 About
 
