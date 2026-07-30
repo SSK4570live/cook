@@ -1,6 +1,6 @@
 <div align="center">🍪 Premium Cookies Service
 
-🇮🇳 India Region Only
+🇮🇳 India Region Service Provided..
 
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 <img src="https://img.shields.io/badge/Region-India-blue?style=for-the-badge">
@@ -32,15 +32,6 @@ This repository is created to organize and share cookie data for supported platf
 «This service is available in India.»
 
 
----
-
-📌 Important Notice
-
-This repository is intended only for educational and testing purposes.
-
-Users are responsible for ensuring that their use complies with the terms of service, copyright rules, and applicable laws of any platforms they access.
-
----
 
 ⭐ Support
 
