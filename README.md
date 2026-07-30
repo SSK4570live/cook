@@ -1,3 +1,63 @@
+<div align="center">🍪 Premium Cookies Service
+
+🇮🇳 India Region Only
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Region-India-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Updates-Regular-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Developer-SSK4570-red?style=for-the-badge">---
+
+⚡ Fast • Clean • Regularly Updated
+
+</div>📖 About
+
+Welcome to Premium Cookies Service.
+
+This repository is created to organize and share cookie data for supported platforms in one place. The project is maintained with regular updates and a simple structure for educational and testing purposes.
+
+---
+
+✨ Features
+
+- 🍪 Organized cookie collection
+- ⚡ Fast updates
+- 🔄 Regular maintenance
+- 📱 Easy to use
+- 🇮🇳 India region support
+
+---
+
+🇮🇳 Region Restriction
+
+«This service is available only in India.»
+
+Requests from outside the India region may not be supported.
+
+---
+
+📌 Important Notice
+
+This repository is intended only for educational and testing purposes.
+
+Users are responsible for ensuring that their use complies with the terms of service, copyright rules, and applicable laws of any platforms they access.
+
+---
+
+⭐ Support
+
+If you like this project, don't forget to:
+
+- ⭐ Star this repository
+- 🍴 Fork the project
+- 💙 Share it with others
+
+---
+
+<div align="center">❤️ Developed with Love by SSK4570
+
+Thank you for your support!
+
+</div>
 ---
 
 # 🚬 Credits
