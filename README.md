@@ -13,7 +13,7 @@
 
 Welcome to Premium Cookies Service.
 
-This repository is created to Provide Premium apps Channels Cookie Free US and share cookie data for supported platforms in one place. The project is maintained with regular updates and a simple structure for educational and testing purposes.
+This repository is created to Provide Premium apps Channels Cookie Free By US and share cookie data for supported platforms in one place. The project is maintained with regular updates and a simple structure for educational and testing purposes.
 
 ---
 
