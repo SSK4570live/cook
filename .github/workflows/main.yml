@@ -12,12 +12,12 @@ jobs:
       contents: write
     steps:
       - name: checkout repo content
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        uses: actions/checkout@v4
         
       - name: setup python
-        uses: actions/setup-python@0b93645e9fea7318ecaed2b359559ac225c90a2b
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11' # Changed from 3.9 to 3.11 to support union type hints (dict | None)
           
       - name: install python packages
         run: |
@@ -27,6 +27,9 @@ jobs:
       - name: execute py script
         env:
           password: ${{ secrets.password }}
+          # The requests library in Python will automatically pick these up
+          HTTP_PROXY: ${{ secrets.INDIAN_PROXY }}
+          HTTPS_PROXY: ${{ secrets.INDIAN_PROXY }}
         run: python decrypt.py
           
       - name: commit and push changes
