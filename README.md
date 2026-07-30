@@ -29,9 +29,8 @@ This repository is created to organize and share cookie data for supported platf
 
 🇮🇳 Region Restriction
 
-«This service is available only in India.»
+«This service is available in India.»
 
-Requests from outside the India region may not be supported.
 
 ---
 
@@ -53,11 +52,9 @@ If you like this project, don't forget to:
 
 ---
 
-<div align="center">❤️ Developed with Love by SSK4570
-
-Thank you for your support!
-
 </div>
+
+
 ---
 
 # 🚬 Credits
